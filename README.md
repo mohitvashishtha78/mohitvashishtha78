@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohitvashishtha78
+- 👋 Hi, I’m Mohit Vashishtha
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN stack web development
 - 💞️ I’m looking to collaborate on Internship/Job
